@@ -1,16 +1,32 @@
 <div align="center">
 
-![HALT banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:FF6B6B,100:9B59B6&height=220&section=header&text=HALT&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20AI%20Agents%20That%20A/B%20Test%20Your%20Store%20For%20You&descAlignY=58&descSize=20)
+<img src=".github/assets/banner-dark.svg" alt="HALT — autonomous AI agents that A/B test your storefront" width="100%" />
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/halt-y8jwon?ref_content=user-portfolio&ref_feature=in_progress)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-halt--hack.tech-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.halt-hack.tech/)
 [![UofTHacks 13](https://img.shields.io/badge/UofTHacks_13-Hackathon-9B59B6?style=for-the-badge)](https://uofthacks-13.devpost.com/)
 
-### Weeks of A/B testing, compressed into minutes — by AI shoppers, not real ones.
+</div>
 
-[**Try the Live Demo**](https://www.halt-hack.tech/) &nbsp;•&nbsp; [**Read the Devpost**](https://devpost.com/software/halt-y8jwon) &nbsp;•&nbsp; [**Report a Bug**](https://github.com/leungt30/HALT/issues)
+<br/>
+
+## Dashboard Overview
+
+<div align="center">
+
+| ⏱️ TEST CYCLE | 🤖 ACTIVE PERSONAS | 🔁 OPTIMIZATION LOOP | 💰 MARKET SPEND |
+|:---:|:---:|:---:|:---:|
+| **Weeks → Minutes** | **10** | **Fully Automated** | **$1.5B / yr** |
+| manual A/B testing, compressed | unique AI shopper personas per run | analyze → propose → test → repeat | spent on A/B testing in the US alone |
 
 </div>
+
+<p align="center">
+  <a href="https://www.halt-hack.tech/"><b>▸ Live Demo</b></a> &nbsp;|&nbsp;
+  <a href="https://devpost.com/software/halt-y8jwon"><b>▸ Devpost Writeup</b></a> &nbsp;|&nbsp;
+  <a href="https://uofthacks-13.devpost.com/"><b>▸ UofTHacks 13</b></a> &nbsp;|&nbsp;
+  <a href="https://github.com/leungt30/HALT/issues"><b>▸ Report a Bug</b></a>
+</p>
 
 <br/>
 
@@ -21,6 +37,8 @@
 Companies spend an estimated **$1.5 billion a year** on A/B testing in the US alone, and even a 0.1% lift in engagement can mean six figures in revenue. HALT exists to make that iteration loop near-instant.
 
 <br/>
+
+## System Architecture
 
 <div align="center">
 
@@ -205,7 +223,5 @@ Built at **UofTHacks 13**.
 Created for **UofTHacks 13** — see the repository for license details.
 
 [![Devpost](https://img.shields.io/badge/View_on-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/halt-y8jwon?ref_content=user-portfolio&ref_feature=in_progress)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:FF6B6B,100:2E3192&height=120&section=footer)
 
 </div>
